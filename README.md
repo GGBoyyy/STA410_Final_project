@@ -1,4 +1,5 @@
 # STA410_Final_project
+Created by Shubin Sun
 # Bayesian Imputation for Missing Financial Data
 
 This project demonstrates a Bayesian approach to imputing missing values in financial time series data using **Gaussian Processes (GPs)**. The methodology is implemented in a clean Python module and demonstrated through Jupyter notebooks.
