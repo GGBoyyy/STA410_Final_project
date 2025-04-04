@@ -5,7 +5,7 @@ This project demonstrates a Bayesian approach to imputing missing values in fina
 
 ## 📦 Project Structure
 ```
-finance_missing_imputation/
+STA410_Final_project/
 ├── missing_imputer/
 │   ├── bayesian_gp_imputer.py       # Main imputer class using GPs
 ├── notebooks/
