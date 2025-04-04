@@ -30,7 +30,7 @@ STA410_Final_project/
 ## 🚀 Getting Started
 ### 1. Clone and install dependencies
 ```bash
-git clone https://github.com/yourusername/finance_missing_imputation.git
+git clone https://github.com/GGBoyyy/STA410_Final_project.git
 cd finance_missing_imputation
 pip install -r requirements.txt
 ```
